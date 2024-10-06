@@ -5,8 +5,14 @@ Je bouwt je eigen App Store op nano schaal en levert aan het einde van de derde 
 Het systeem wordt gebouwd in 3 sprints:
 
 Sprint 1: Eerste spel maken: een nummer raad spel
+
+
 Sprint 2: Tweede spel/applicatie toevoegen: galgje of dagboek
+
+
 Sprint 3: Spellen/apps samenbrengen in 1 platform met een keuzemenu
+
+
 
 Je bereidt een pitch voor van maximaal een minuut waarin je jouw App Store presenteert. Hierin belicht je bijvoorbeeld de unieke aspecten van jouw platform voor de gebruiker.
 Je maakt een digitale poster waarop je jouw App Store aanprijst. Deze poster biedt ondersteuning tijdens jouw pitch. Wil je jouw Nano project als Nano App Store XL laten beoordelen? Noteer jouw XL gedeelte op je poster.
