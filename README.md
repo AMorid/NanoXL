@@ -1,4 +1,4 @@
-# NanoXL
+# Nano
 Bouw een platform die het mogelijk maakt voor gebruikers om spellen te spelen of handige apps te raadplegen.
 Je bouwt je eigen App Store op nano schaal en levert aan het einde van de derde sprint je werk in; lees meer over de inlever-eisen op de pagina over de oplevering van het beroepsproduct Nano App Store.
 
