@@ -161,3 +161,4 @@ if __name__ == "__main__":
 
     # Start het hoofdmenu
     main_menu()
+# main menu was made by the chatgpt
